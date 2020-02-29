@@ -6,7 +6,7 @@ categories: ["R"]
 tags: ["R Markdown", "plot", "regression"]
 ---
 
-Here is the [thesis](/thesis.pdf)
+Here is the [thesis](public/thesis.pdf).
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(collapse = TRUE)
