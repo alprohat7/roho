@@ -8,31 +8,10 @@ tags: ["R Markdown", "plot", "regression"]
 
 Here is the [thesis](https://alprohat.netlify.com/thesis/thesis.pdf).
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(collapse = TRUE)
-```
 
 # Abstract 
 
 This paper investigates the relationship between the average expenditure per tourist which is calculated as total travel incomes divided by the total number of departing visitors, the exchange rate and inflation of package holidays by using OLS method. The analysis has covered the period of 2005 – 2018 on a monthly basis. The empirical results have stated that the exchange rate volatility and the inflation of package holidays have a negative and statistically significant effect on the average expenditure per tourist.
 
-You can embed an R code chunk like this:
-```{r cars}
-summary(cars)
-fit <- lm(dist ~ speed, data = cars)
-fit
-```
 
-# Including Plots
 
-You can also embed plots. See Figure \@ref(fig:pie) for example:
-
-```{r pie, fig.cap='A fancy pie chart.', tidy=FALSE}
-par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c('Sky', 'Sunny side of pyramid', 'Shady side of pyramid'),
-  col = c('#0292D8', '#F7EA39', '#C4B632'),
-  init.angle = -50, border = NA
-)
-```
