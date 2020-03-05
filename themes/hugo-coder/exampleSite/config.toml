@@ -16,15 +16,15 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "John Doe"
-    description = "John Doe's personal website"
+    author = "Rohat"
+    description = "Rohat's Personal Website"
     keywords = "blog,developer,personal"
-    info = "Full Stack DevOps and Magician"
+    info = "Web Developer and Music Enthusiast "
     avatarurl = "images/avatar.jpg"
     #gravatar = "john.doe@example.com"
-    footercontent = "Enter a text here."
+    footercontent = "All rights are reserved"
 
-    dateformat = "January 2, 2006"
+    dateformat = "March 5, 2020"
 
     hideCredits = false
     hideCopyright = false
@@ -33,7 +33,7 @@ disqusShortname = "yourdiscussshortname"
     # Git Commit in Footer, uncomment the line below to enable it.
     commit = "https://github.com/luizdepra/hugo-coder/tree/"
 
-    rtl = false
+    rtl = true
 
     # Specify light/dark colorscheme
     # Supported values:
