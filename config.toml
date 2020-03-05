@@ -79,10 +79,10 @@ disqusShortname = "yourdiscussshortname"
     weight = 3
     url = "https://www.linkedin.com/in/rohat-alp-1a9870173/"
 [[params.social]]
-    name = "RSS"
-    icon = "fas fa-rss"
+    name = "Soundcloud"
+    icon = "fab fa-soundcloud"
     weight = 4
-    url = "https://myhugosite.com/index.xml"
+    url = "https://soundcloud.com/rohatalp"
     rel = "alternate"
     type = "application/rss+xml"
 
