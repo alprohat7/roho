@@ -1,0 +1,50 @@
+languageCode = "en-us"
+title = "Massively"
+baseURL = "http://localhost:1313/"
+theme = "hugo-theme-massively"
+googleanalytics = ""
+disqusShortname = ""
+disableKinds = ["taxonomy", "taxonomyTerm", "section"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+[[menu.main]]
+    name = "GitHub"
+    url = "https://github.com/rstudio/blogdown"
+    
+[[menu.main]]
+    name = "Resume"
+    url = "https://alprohat.netlify.com/Resume/resume.pdf"    
+    
+[[menu.main]]
+    name = "Twitter"
+    url = "https://twitter.com/Rohatalp"
+
+# [params]
+  # set below parameter to define a favicon
+  # favicon = "favicon.ico"
+  # set to change date format
+  # dateFormat = "2.1.2006"
+
+# Below parameters can be set to override default post settings
+# [params.posts]
+#     folderName = "post"
+#     pageSize = "6"
+#     featuredPost = true
+#     paginationPages = 2
+#     showFirstLast = false
+ 
+[languages]
+[languages.en]
+  languageName = "English"
+[languages.es]
+  languageName = "Español"
+  title = "Massively - Versión Español"
+#[languages.fr]
+#  languageName = "Français"
+#  title = "Massively - Version Française"
