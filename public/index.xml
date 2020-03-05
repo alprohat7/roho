@@ -6,10 +6,19 @@
     <description>Recent content on Rohat Alp</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 May 2016 21:48:51 -0700</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2020 21:48:51 -0700</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About Me</title>
+      <link>/about/</link>
+      <pubDate>Sun, 03 May 2020 21:48:51 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Throughout my career, I have worked in many different positions and sectors to contribute positive business results by performing another level of prioritization to increase productivity. The experience that I have gained over the years, allows me to understand people easily and communicate with them in an effective way. While I&amp;rsquo;m independently motivated, I do appreciate collective efforts and collaborate productively within group settings</description>
+    </item>
     
     <item>
       <title>The Exchange Rate Volatility and Tourism in Turkey</title>
@@ -29,15 +38,6 @@ Abstract This paper investigates the relationship between the average expenditur
       <guid>/post/2016-12-30-hello-markdown/</guid>
       <description>This is a post written in plain Markdown (*.md) instead of R Markdown (*.Rmd). The major differences are:
  You cannot run any R code in a plain Markdown document, whereas in an R Markdown document, you can embed R code chunks (```{r}); A plain Markdown post is rendered through Blackfriday, and an R Markdown document is compiled by rmarkdown and Pandoc.  There are many differences in syntax between Blackfriday&amp;rsquo;s Markdown and Pandoc&amp;rsquo;s Markdown.</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      
-      <guid>/about/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
     </item>
     
     <item>

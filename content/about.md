@@ -1,6 +1,8 @@
 ---
-date: "2016-05-05T21:48:51-07:00"
-title: About
+date: "2020-05-03T21:48:51-07:00"
+title: About Me
 ---
 
-This is a "hello world" example website for the [**blogdown**](https://github.com/rstudio/blogdown) package. The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium).
+
+Throughout my career, I have worked in many different positions and sectors to contribute positive business results by performing another level of prioritization to increase productivity. The experience that I have gained over the years, allows me to understand people easily and communicate with them in an effective way. While I'm independently motivated, I do appreciate collective efforts and collaborate productively within group settings
+
