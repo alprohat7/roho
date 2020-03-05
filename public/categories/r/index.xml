@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>R on Rohat&#39;s Website</title>
+    <title>R on Rohat Alp</title>
     <link>/categories/r/</link>
-    <description>Recent content in R on Rohat&#39;s Website</description>
+    <description>Recent content in R on Rohat Alp</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     <lastBuildDate>Thu, 23 May 2019 21:13:14 -0500</lastBuildDate>
     
 	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
@@ -13,10 +13,10 @@
     
     <item>
       <title>The Exchange Rate Volatility and Tourism in Turkey</title>
-      <link>/2019/05/23/the-exchange-rate-volatility-and-tourism-in-turkey/</link>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 May 2019 21:13:14 -0500</pubDate>
       
-      <guid>/2019/05/23/the-exchange-rate-volatility-and-tourism-in-turkey/</guid>
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
       <description>Here is the thesis.
 Abstract This paper investigates the relationship between the average expenditure per tourist which is calculated as total travel incomes divided by the total number of departing visitors, the exchange rate and inflation of package holidays by using OLS method. The analysis has covered the period of 2005 – 2018 on a monthly basis. The empirical results have stated that the exchange rate volatility and the inflation of package holidays have a negative and statistically significant effect on the average expenditure per tourist.</description>
     </item>
