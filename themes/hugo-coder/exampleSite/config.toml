@@ -20,7 +20,7 @@ disqusShortname = "yourdiscussshortname"
     description = "Rohat's Personal Website"
     keywords = "blog,developer,personal"
     info = "Web Developer and Music Enthusiast "
-    avatarurl = "images/avatar.jpg"
+    avatarurl = "/photo.jpg"
     #gravatar = "john.doe@example.com"
     footercontent = "All rights are reserved"
 
