@@ -116,7 +116,7 @@ disqusShortname = "yourdiscussshortname"
             [[languages.en.menu.main]]
             name = "Resume"
             weight = 5
-            url = "contact/"
+            url = "https://alprohat.netlify.com/Resume/resume.pdf"
 
     [languages.pt-br]
         languagename = "Español"
