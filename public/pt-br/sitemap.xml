@@ -3,58 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/pt-br/categories/</loc>
+    <loc>http://www.example.com/pt-br/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="http://www.example.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/pt-br/categories/"
+                href="http://www.example.com/pt-br/categories/"
                 />
   </url>
   
   <url>
-    <loc>/pt-br/</loc>
+    <loc>http://www.example.com/pt-br/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="http://www.example.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/pt-br/"
+                href="http://www.example.com/pt-br/"
                 />
   </url>
   
   <url>
-    <loc>/pt-br/series/</loc>
+    <loc>http://www.example.com/pt-br/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/series/"
+                href="http://www.example.com/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/pt-br/series/"
+                href="http://www.example.com/pt-br/series/"
                 />
   </url>
   
   <url>
-    <loc>/pt-br/tags/</loc>
+    <loc>http://www.example.com/pt-br/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="http://www.example.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/pt-br/tags/"
+                href="http://www.example.com/pt-br/tags/"
                 />
   </url>
   
