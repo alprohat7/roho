@@ -1,5 +1,5 @@
 baseurl = "https://www.alprohat.netlify.com"
-title = "Rohat Alp"
+title = "Home"
 
 theme = "hugo-coder"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
