@@ -3,62 +3,62 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://www.alprohat.netlify.com/about/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://www.alprohat.netlify.com/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/pt-br/categories/"
+                href="https://www.alprohat.netlify.com/pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/categories/"
+                href="https://www.alprohat.netlify.com/categories/"
                 />
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://www.alprohat.netlify.com/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/pt-br/"
+                href="https://www.alprohat.netlify.com/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/"
+                href="https://www.alprohat.netlify.com/"
                 />
   </url>
   
   <url>
-    <loc>/series/</loc>
+    <loc>https://www.alprohat.netlify.com/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/pt-br/series/"
+                href="https://www.alprohat.netlify.com/pt-br/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/series/"
+                href="https://www.alprohat.netlify.com/series/"
                 />
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://www.alprohat.netlify.com/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="/pt-br/tags/"
+                href="https://www.alprohat.netlify.com/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/tags/"
+                href="https://www.alprohat.netlify.com/tags/"
                 />
   </url>
   
