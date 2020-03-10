@@ -2,7 +2,7 @@
 title: "The Exchange Rate Volatility and Tourism in Turkey"
 author: "Rohat Alp"
 date: "3/05/2019"
-output: md_document
+output: html_document
 ---
 
 Here is the [thesis](https://alprohat.netlify.com/thesis/thesis.pdf).
