@@ -106,7 +106,7 @@ disqusShortname = "yourdiscussshortname"
             [[languages.en.menu.main]]
             name = "Projects"
             weight = 4
-            url = "https://alprohat.netlify.com/projects.Rmd"
+            url = "content/projects.Rmd"
 
             [[languages.en.menu.main]]
             name = "Contact me"
