@@ -2,18 +2,9 @@
 title = "About Me"
 slug = "about"
 +++
+ 
+Throughout my career, I have worked in many different positions and sectors to contribute positive business results by performing another level of prioritization to increase productivity. The experience that I have gained over the years, allows me to understand people easily and communicate with them in an effective way. While I’m independently motivated, I do appreciate collective efforts and collaborate productively within group settings. 
 
-Hugo is a static site engine written in Go and some stupidity.
-
-
-It makes use of a variety of open source projects including:
-
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
-
-Learn more and contribute on [GitHub](https://github.com/spf13).
 
 ## Setup
 
