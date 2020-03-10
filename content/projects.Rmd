@@ -5,7 +5,7 @@ date: "3/05/2019"
 output: md_document
 ---
 
-The paper has written during the last semestre of my senior year for as a graduation thesis. The topic itself is deeply related to my previous experiences and the the data that has been used can be found the **link** below.
+The paper has written during the last semestre of my senior year as a graduation thesis. The topic itself is deeply related to my previous experiences and the the data that has been used can be found the **link** below.
 
  (https://evds2.tcmb.gov.tr)
 
