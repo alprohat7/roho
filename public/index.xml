@@ -11,16 +11,36 @@
     
     
     <item>
-      <title>About Hugo</title>
+      <title>About Me</title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>Hugo is a static site engine written in Go.
+      <description>Hugo is a static site engine written in Go and some stupidity.
+Justified {: .alert .alert-info .text-justify}
 It makes use of a variety of open source projects including:
  Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.
 Setup Some fun facts about Hugo:
  Built in Go Loosely inspired by Jekyll Primarily developed by spf13 on the train while commuting to and from Manhattan. Coded in Vim using spf13-vim  Have questions or suggestions?</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Follow me, @johndoe.</description>
+    </item>
+    
+    <item>
+      <title>The Exchange Rate Volatility and Tourism in Turkey</title>
+      <link>/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>Here is the thesis.
+Abstract This paper investigates the relationship between the average expenditure per tourist which is calculated as total travel incomes divided by the total number of departing visitors, the exchange rate and inflation of package holidays by using OLS method. The analysis has covered the period of 2005 – 2018 on a monthly basis. The empirical results have stated that the exchange rate volatility and the inflation of package holidays have a negative and statistically significant effect on the average expenditure per tourist.</description>
     </item>
     
   </channel>

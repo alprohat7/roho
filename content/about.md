@@ -1,10 +1,12 @@
 +++
-title = "About Hugo"
+title = "About Me"
 slug = "about"
 +++
 
-Hugo is a static site engine written in Go.
+Hugo is a static site engine written in Go and some stupidity.
 
+Justified
+{: .alert .alert-info .text-justify}
 
 It makes use of a variety of open source projects including:
 
