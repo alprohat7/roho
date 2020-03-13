@@ -73,15 +73,23 @@ disqusShortname = "yourdiscussshortname"
     icon = "fab fa-twitter"
     weight = 2
     url = "https://twitter.com/Rohatalp"
+    
+[[params.social]]
+    name = "Instagram"
+    icon = "fab fa-instagram"
+    weight = 3
+    url = "https://www.instagram.com/rohatalp/"    
+    
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
-    weight = 3
+    weight = 4
     url = "https://www.linkedin.com/in/rohat-alp-1a9870173/"
+
 [[params.social]]
     name = "Soundcloud"
     icon = "fab fa-soundcloud"
-    weight = 4
+    weight = 5
     url = "https://soundcloud.com/rohatalp"
     rel = "alternate"
     type = "application/rss+xml"
