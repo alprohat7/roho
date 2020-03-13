@@ -3,71 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.alprohat.netlify.com/about/</loc>
+    <loc>/about/</loc>
   </url>
   
   <url>
-    <loc>https://www.alprohat.netlify.com/categories/</loc>
+    <loc>/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://www.alprohat.netlify.com/pt-br/categories/"
+                href="/pt-br/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.alprohat.netlify.com/categories/"
+                href="/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://www.alprohat.netlify.com/contact/</loc>
+    <loc>/contact/</loc>
   </url>
   
   <url>
-    <loc>https://www.alprohat.netlify.com/</loc>
+    <loc>/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://www.alprohat.netlify.com/pt-br/"
+                href="/pt-br/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.alprohat.netlify.com/"
+                href="/"
                 />
   </url>
   
   <url>
-    <loc>https://www.alprohat.netlify.com/series/</loc>
+    <loc>/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://www.alprohat.netlify.com/pt-br/series/"
+                href="/pt-br/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.alprohat.netlify.com/series/"
+                href="/series/"
                 />
   </url>
   
   <url>
-    <loc>https://www.alprohat.netlify.com/tags/</loc>
+    <loc>/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="https://www.alprohat.netlify.com/pt-br/tags/"
+                href="/pt-br/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://www.alprohat.netlify.com/tags/"
+                href="/tags/"
                 />
   </url>
   
   <url>
-    <loc>https://www.alprohat.netlify.com/projects/</loc>
+    <loc>/projects/</loc>
   </url>
   
 </urlset>
