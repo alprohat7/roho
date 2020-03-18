@@ -1,63 +1,64 @@
-body{
-  margin: 0;
-  padding: 0;
-  background: url(https://alprohat.netlify.com/harbor.jpg);
-  background-size: cover;
-  
-  }
-  .contact-form{
-    width:85%;
-    max-width:600px;
-    background: #f1f1f1;
-    position: absolute;
-    top:50%;
-    left:50%;
-    transform: translate(-50%,-50%);
-    padding: 20px 30px;
-    border-radius:8px;
-    text-align:center;
-    box-shadow:0 0 20px #000000b3;
-    font-family:"Montserrat",sans-serif;
-     }
-     
-     .contact-form h1{
-       margin-top:0;
-       font-weight:200;
-     }
-     .txtb{
-       border:1px solid gray;
-       margin:8px 0;
-       padding:12px 18px;
-       border-radius:8px;
-     }
-     .txtb label{
-       display:block;
-       text-align:left;
-       color:#333;
-       text-transform:uppercase;
-       font-size:18px;
-       
-     }
-     .txtb input, txtb textarea{
-       width:100%;
-       border:none;
-       background:none;
-       outline:none;
-       font-size:18px;
-       margin-top:6px;
+<script>
+$(function()
+{
+    function after_form_submitted(data)
+    {
+        if(data.result == 'success')
+        {
+            $('form#reused_form').hide();
+            $('#success_message').show();
+            $('#error_message').hide();
+        }
+        else
+        {
+            $('#error_message').append('<ul></ul>');
 
-     }
-     .btn{
-       display:inline-block;
-       background:#9b59b6;
-       padding:14px 0;
-       color:white;
-       text-transform:uppercase;
-       cursor:pointer;
-       margin-top:8px;
-       width:100%;
-     }
-     
-     
-     
-     
+            jQuery.each(data.errors,function(key,val)
+            {
+                $('#error_message ul').append('<li>'+key+':'+val+'</li>');
+            });
+            $('#success_message').hide();
+            $('#error_message').show();
+
+            //reverse the response on the button
+            $('button[type="button"]', $form).each(function()
+            {
+                $btn = $(this);
+                label = $btn.prop('orig_label');
+                if(label)
+                {
+                    $btn.prop('type','submit' );
+                    $btn.text(label);
+                    $btn.prop('orig_label','');
+                }
+            });
+
+        }//else
+    }
+
+	$('#reused_form').submit(function(e)
+      {
+        e.preventDefault();
+
+        $form = $(this);
+        //show some response on the button
+        $('button[type="submit"]', $form).each(function()
+        {
+            $btn = $(this);
+            $btn.prop('type','button' );
+            $btn.prop('orig_label',$btn.text());
+            $btn.text('Sending ...');
+        });
+
+
+                    $.ajax({
+                type: "POST",
+                url: 'handler.php',
+                data: $form.serialize(),
+                success: after_form_submitted,
+                dataType: 'json'
+            });
+
+      });
+});
+</script>
