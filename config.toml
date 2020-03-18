@@ -132,7 +132,7 @@ disqusShortname = "yourdiscussshortname"
 
         [languages.pt-br.params]
             author = "Rohat Alp"
-            info = "el Desarrollador Web y Entusiasta de la Música"
+            info = "Desarrollador Web y Entusiasta de la Música"
             description = "Sítio pessoal de Rohat Alp"
             keywords = "blog,desenvolvedor,pessoal,Música"
             footercontent = "Coloque algum texto aqui."
