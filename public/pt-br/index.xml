@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>el Menú Principal</title>
-    <link>/pt-br/</link>
+    <link>https://www.alprohat.netlify.com/pt-br/</link>
     <description>Recent content on el Menú Principal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="/pt-br/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.alprohat.netlify.com/pt-br/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
